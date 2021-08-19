@@ -1,6 +1,6 @@
 # Introduction
 
-If you are seeing this, congrats as you are about to embark onto a wonderful journey on blockchain, namely the Hyperledger. 
+If you are seeing this, congrats as you are about to embark onto a wonderful journey on blockchain, namely the Hyperledger Fabric. 
 
 ## In the Beginning
 
