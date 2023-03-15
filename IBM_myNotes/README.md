@@ -15,8 +15,6 @@ A few readings that I recommend:
 The IBM Course ([Tutorial A1 to A10](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev)) can also be found in this site www.cognitiveclass.ai. Allow me to share some insights to enrich the learning journey. 
 
 ### Salient Points 
-*  Tutorial A1
-*  Tutorial A2
-*  Tutorial A3
-*  t.b.c
-*  
+*  There are dependencies, get them updated before moving on.
+*  Be clear on which is the parent and child.
+*  Finally, be daring to explore configuring more wallets!
